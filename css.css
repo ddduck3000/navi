@@ -1,0 +1,97 @@
+/*基本信息*/
+body {font:12px Tahoma;margin:0px;text-align:center;background:#FFF;padding:0; }
+A:link {
+	COLOR: #404040; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #404040; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ff7f00; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff7f00; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+
+
+
+/*页面层容器*/
+#container {width:1284px;height:742px;position:absolute; left:50%; margin-left:-642px;background:url("background.jpg");}
+
+#main {
+	width:873px; margin:107px 0 0 232px;display:inline;float:left;
+}
+
+#left{
+	width:673px; margin:10px 0 0 10px; float: left;overflow:hidden;
+}
+
+
+
+#line{
+	width:660px;height:24px;background:url("line.gif");
+}
+#dotline{
+		width:620px;height:2px;background:url("dotline.gif") ;margin:0 0 0 30px;overflow:hidden;float:left;
+}
+#linegray{
+	width:660px;height:24px;background:url("dotlinegray.gif");display:inline;margin:20px 0 0 0;
+}
+#linkstyle{
+	width:620px;margin:10px 0 0 35px;float:left;text-align:left;
+}
+#contentleft{
+	float:left;margin:10px 0 0 0;
+}
+#contentright{
+	
+}
+
+#block{
+	width:300px; margin:10px 30px 5px 0px;float:right;
+}
+#blockstyle{
+	width:300px;margin:10px 0 0 35px;float:left;text-align:left;
+}
+#blockdotline{
+			width:300px;height:2px;background:url("dotline.gif") no-repeat;margin:0 0 0 30px;overflow:hidden;float:left;
+}
+
+#right{
+	width:152px; margin:10px 0 0 10px;float:left;
+}
+
+#search{
+	border: solid 1px #e8e8e8;margin:5px 0 0 0 ;
+}
+
+#usual{
+	width:660px;float:left;text-align:left;margin:30px 0 0 0;
+}
+
+
+            #tabContainer
+            {
+                  margin: 30px;
+            }
+            #left li
+            {
+                  list-style:none;
+				  float: left;
+                  width: 50px;
+                  margin: 0 3px;
+                 
+                  text-align: center;
+            }
+			#left ul
+            {
+			margin: 0 0 0 28px;
+            }
+            #tabContainer a
+            {
+                  display: block;
+            }
+            #tabContainer a.on
+            {
+                  background: pink;
+            }
