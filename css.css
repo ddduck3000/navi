@@ -1,5 +1,5 @@
 /*»ù±¾ÐÅÏ¢*/
-body {font:13px Tahoma;margin:0px;text-align:center;background:#FFF;padding:0; }
+body {font:14px Tahoma;margin:0px;text-align:center;background:#FFF;padding:0; }
 A:link {
 	COLOR: #404040; FONT-FAMILY: Arial; TEXT-DECORATION: none
 }
@@ -16,36 +16,34 @@ A:hover {
 
 
 /*Ò³Ãæ²ãÈÝÆ÷*/
-#container {width:1284px;height:742px;position:absolute; left:50%; margin-left:-642px;background:url("background.jpg");}
+#container {width:1284px;height:1000px;position:absolute; left:50%; margin-left:-642px;background:url("background.jpg");}
 
 #main {
-	width:873px; margin:107px 0 0 232px;display:inline;float:left;
+	width:933px; margin:127px 0 0 172px;display:inline;float:left;
 }
 
 #left{
-	width:673px; margin:10px 0 0 10px; float: left;overflow:hidden;
+	width:733px; margin:10px 0 0 10px; float: left;overflow:hidden;
 }
 
 
 
 #line{
-	width:660px;height:24px;background:url("line.gif");
+	width:660px;height:24px;margin:0 0 0 30px;background:url("line.gif");
 }
 #dotline{
-		width:620px;height:2px;background:url("dotline.gif") ;margin:0 0 0 30px;overflow:hidden;float:left;
+		width:660px;height:2px;background:url("dotline.gif") ;margin:0 0 0 30px;overflow:hidden;float:left;
 }
 #linegray{
-	width:660px;height:24px;background:url("dotlinegray.gif");display:inline;margin:20px 0 0 0;
+	width:720px;height:24px;background:url("dotlinegray.gif");display:inline;margin:20px 0 0 0;
 }
 #linkstyle{
-	width:620px;margin:10px 0 0 35px;float:left;text-align:left;
+	width:680px;margin:10px 0 0 35px;float:left;text-align:left;
 }
 #contentleft{
 	float:left;margin:10px 0 0 0;
 }
-#contentright{
-	
-}
+#contentright{}
 
 #block{
 	width:300px; margin:10px 30px 5px 0px;float:right;
