@@ -1,5 +1,5 @@
-/*»ù±¾ĞÅÏ¢*/
-body {font:12px Tahoma;margin:0px;text-align:center;background:#FFF;padding:0; }
+/*Â»Ã¹Â±Â¾ÃÃ…ÃÂ¢*/
+body {font:14px Tahoma;margin:0px;text-align:center;background:#FFF;padding:0; }
 A:link {
 	COLOR: #404040; FONT-FAMILY: Arial; TEXT-DECORATION: none
 }
@@ -15,7 +15,7 @@ A:hover {
 
 
 
-/*Ò³Ãæ²ãÈİÆ÷*/
+/*Ã’Â³ÃƒÃ¦Â²Ã£ÃˆÃÃ†Ã·*/
 #container {width:1284px;height:742px;position:absolute; left:50%; margin-left:-642px;background:url("background.jpg");}
 
 #main {
