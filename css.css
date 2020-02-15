@@ -1,16 +1,16 @@
 /*»ù±¾ÐÅÏ¢*/
-body {font:13px SimSun ;margin:0px;text-align:center;background:#FFF;padding:0; }
+body {font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;font-size: 14px; margin:0px;text-align:center;background:#FFF;padding:0; }
 A:link {
-	COLOR: #404040; FONT-FAMILY: Arial; TEXT-DECORATION: none
+	COLOR: #404040;  margin:0 0 0 2px;TEXT-DECORATION: none
 }
 A:visited {
-	COLOR: #404040; FONT-FAMILY: arial; TEXT-DECORATION: none
+	COLOR: #404040;  TEXT-DECORATION: none
 }
 A:active {
-	COLOR: #ff7f00; FONT-FAMILY: arial; TEXT-DECORATION: none
+	COLOR: #ff7f00;  TEXT-DECORATION: none
 }
 A:hover {
-	COLOR: #ff7f00; FONT-FAMILY: arial; TEXT-DECORATION: underline
+	COLOR: #ff7f00; TEXT-DECORATION: underline
 }
 
 
